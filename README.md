@@ -2,9 +2,6 @@
 
 > 这里是Auto-GPT中文项目- 同步fork Auto-GPT   Auto-GPT修改了分支规则，Fork同步于Stable最新分支
 
-![gzh](docs/imgs/gzh.png)
-
-### 公众号<阿杰的人生路>回复"Auto-GPT"加入群聊，共同探讨更多玩法
 
 ### 中文版Demo :
 
@@ -90,10 +87,7 @@ pip install -r requirements.txt
   - 从[https://elevenlabs.io](https://elevenlabs.io/)获取您的 ElevenLabs API 密钥。您可以使用网站上的“个人资料”选项卡查看您的 xi-api-key。
 
 ## 终端代理方法
-
-推荐工具：[【稳定，高速梯子推荐56一年，活动时5折，点击直达】](https://www.hjtnt.pro/auth/register?code=QRY5)
-
-Mac 下载 [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) 设置 系统代理 增强模式 然后复制终端代理命令 在终端中输入，重启即可
+需要科学工具
 
 根据自己的工具修改对应的端口
 
